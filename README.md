@@ -1,16 +1,62 @@
-### Hi there 👋
+<p align="middle">
+<a href="https://github.com/DrMahad"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=cursedspiderboi&style=flat-circle" width="125"/></a>
 
-<!--
-**CursedSpiderBoi/CursedSpiderBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="middle">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=000000&background=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+My name is Muhammad Ali , I am a computer science student who is learning & Experimenting with new technologies. I love problem solving & I choose programming because programming is all about real world problem solving. Right now I am trying leetcode learning new things on daily basis. AI and ML have caught my interst recently. What a Beauty! Looking forward to do something that will make people remember my name ( in a good way (⌐■_■) )
+
+
+---
+
+ <p>
+      <h2 align="middl">🌐 Connect with me UwU</h2>
+<p align="middle">
+  <a href="https://www.linkedin.com/in/cursedspiderboi"><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://twitter.com/_mmahad"><img title="Let's connect on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+  <a href="mailto:lame.hero.no.1@gmail.com"><img title="Mail me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/CursedSpiderBoi"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/art_lancers/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## 👨‍💻 Skills & Interests
+
+- The harder the problem the greater the Fun
+- Keen Interest in Machine Learning
+- Learning C++ to develop Windows, Linux & Android Applications.
+- Interest in JS
+
+---
+
+## 🤤 Currently Working on
+
+- Database Management.
+- Design and Analysis of Algorithms.
+- Learning how OS works.
+- Learning how to be a good human
+- Learning Probability & Statistics.
+
+---
+## 😳 Done with Working on
+
+- Assembly Langauge.
+- OOP.
+- Data Structures ( i just love them )
+- Discrete Mathematics ( Thank God it's done )
+- Linear Algeber ( need this for game making )
+- Computer Architecture ( why we are forced to learn it >_< )
+- Advance concepts of C++.
+
+---
+
+### I like this meme
+![](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
