@@ -4,7 +4,7 @@
 ---
 
 <p align="middle">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=211F1F&background=000000&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" /></a>
 
 ---
 My name is Muhammad Ali , I am a computer science student who is learning & Experimenting with new technologies. I love problem solving & I choose programming because programming is all about real world problem solving. Right now I am trying leetcode learning new things on daily basis. AI and ML have caught my interst recently. What a Beauty! Looking forward to do something that will make people remember my name ( in a good way (⌐■_■) )
