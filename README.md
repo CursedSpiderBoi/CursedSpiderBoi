@@ -1,5 +1,5 @@
 <p align="middle">
-<a href="https://github.com/DrMahad"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=cursedspiderboi&style=flat-circle" width="125"/></a>
+<a href="https://github.com/cursedspiderboi"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=cursedspiderboi&style=flat-circle" width="125"/></a>
 
 ---
 
