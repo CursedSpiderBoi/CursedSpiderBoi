@@ -54,10 +54,9 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 
-<p>
+
 ### I like this meme
 ![](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="middle">
