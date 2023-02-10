@@ -35,6 +35,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ## 🤤 Currently Working on
 
+- Daily Leetcode
 - Database Management.
 - Design and Analysis of Algorithms.
 - Learning how OS works.
