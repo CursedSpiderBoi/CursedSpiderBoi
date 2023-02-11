@@ -12,7 +12,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 
- <p>
+<p align="middle">
       <h2 align="middl">🌐 Connect with me UwU</h2>
 <p align="middle">
   <a href="https://www.linkedin.com/in/cursedspiderboi"><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,7 +23,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 </p>
 
 ---
-
+<p align="middle">
 ## 👨‍💻 Skills & Interests
 
 - The harder the problem the greater the Fun
@@ -32,7 +32,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 - Interest in JS
 
 ---
-
+<p align="middle">
 ## 🤤 Currently Working on
 
 - Daily Leetcode
@@ -43,6 +43,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 - Learning Probability & Statistics.
 
 ---
+ <p align="middle">
 ## 😳 Done with Working on
 
 - Assembly Langauge.
@@ -55,9 +56,9 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 
-
+<p align="middle">
 ### I like this meme
 ![](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png)
-
+<p align="middle">
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
