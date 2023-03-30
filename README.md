@@ -1,7 +1,5 @@
-<p align="middle">
-<a href="https://github.com/cursedspiderboi"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=cursedspiderboi&style=flat-circle" width="125"/></a>
-
----
+|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|       |      |        |       |
+|:-:|:-:|:-:|:-:|:-:|
 
 <p align="middle">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" /></a>
