@@ -23,7 +23,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 <p align="middle">
-##👨‍💻 Skills & Interests
+👨‍💻 Skills & Interests
 
 - The harder the problem the greater the Fun
 - Keen Interest in Machine Learning
@@ -32,7 +32,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 <p align="middle">
-##🤤 Currently Working on
+🤤 Currently Working on
 
 - Daily Leetcode
 - Database Management.
@@ -43,7 +43,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ---
 
-<p align="middle">##😳 Done with Working on
+<p align="middle">😳 Done with Working on
 
 - Assembly Langauge.
 - OOP.
@@ -58,5 +58,3 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 
 ### I like this meme
 ![](https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
