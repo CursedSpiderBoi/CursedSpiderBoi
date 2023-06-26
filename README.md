@@ -1,6 +1,6 @@
-|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|
+<!---|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|
 |:-:|:-:|:-:|:-:|:-:|
-|[yeh me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bhi me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh tou hoon hi mein](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh dekha dekha lg rha hai](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bnda hai?](https://www.linkedin.com/in/cursedspiderboi/)|
+|[yeh me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bhi me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh tou hoon hi mein](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh dekha dekha lg rha hai](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bnda hai?](https://www.linkedin.com/in/cursedspiderboi/)|--->
 
 <p align="middle">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=FFFFFF&background=0d1117&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" /></a>
@@ -12,7 +12,7 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 ---
 
 <p align="middle">
-      <h2 align="middl">🌐 Connect with me UwU</h2>
+      <h2 align="middl">🌐 Connect with me</h2>
 <p align="middle">
   <a href="https://www.linkedin.com/in/cursedspiderboi"><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!-- <a href="https://twitter.com/"><img title="Let's connect on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
