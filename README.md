@@ -25,27 +25,30 @@ My name is Muhammad Ali , I am a computer science student who is learning & Expe
 <p align="middle">
 👨‍💻 Skills & Interests
 
+- Food( making && eating both)
+- Web Dev
+- Professional Video Editor
 - The harder the problem the greater the Fun
 - Keen Interest in Machine Learning
 - Learning C++ to develop Windows, Linux & Android Applications.
-- Interest in JS
 
 ---
 <p align="middle">
 🤤 Currently Working on
 
-- Daily Leetcode
-- Database Management.
-- Design and Analysis of Algorithms.
-- Learning how OS works.
-- Learning how to be a good human
-- Learning Probability & Statistics.
+- The art of Computer Shaders
+- Convolutions
+- MERN
+- Database Management
 
 ---
 
 <p align="middle">😳 Done with Working on
 
+- Learning Probability & Statistics.
 - Assembly Langauge.
+- Design and Analysis of Algorithms
+- Learning how OS works.
 - OOP.
 - Data Structures ( i just love them )
 - Discrete Mathematics ( Thank God it's done )
