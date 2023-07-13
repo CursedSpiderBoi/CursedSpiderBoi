@@ -9,7 +9,7 @@
 My name is Muhammad Ali , I am a computer science student who is learning & Experimenting with new technologies. I love problem solving & I choose programming because programming is all about real world problem solving. Right now I am trying leetcode learning new things on daily basis. AI and ML have caught my interst recently. What a Beauty! Looking forward to do something that will make people remember my name ( in a good way (⌐■_■) )
 
 <p align="middle">
-      Latest Project -> <a href="cursedspiderboi.github.io/Text-Editor">Word-Counter With moderen UI/UX</a>
+      Latest Project -> <a href="https://cursedspiderboi.github.io/Text-Editor/">Word-Counter With moderen UI/UX</a>
 </p>
 
 ---
