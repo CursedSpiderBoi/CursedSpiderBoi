@@ -1,197 +1,71 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Coding Adventure</title>
-  <style>
-    /* Global Styles */
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f6f6f6;
-      color: #333;
-    }
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" />
+</p>
 
-    /* Header Styles */
-    header {
-      background-color: #007bff;
-      color: #fff;
-      text-align: center;
-      padding: 20px 0;
-    }
+<p align="center">
+  <pre>
+🤣😂👩‍💻👨‍💻💻🔢📝💻
+🤔🧐🤯🤫🔍🕵️‍♂️🔤💡🎉🎊
+💻🎨🎭🚀🔮🔍🕵️‍♂️🎮🕹️
+📚📖📝💯🏆🏅💾💿🧲🎁🔮🎉
+🚀🎓🏫🧪🧬💻🔌🔋🔦🤯🚀
+  </pre>
+</p>
 
-    h1 {
-      margin: 0;
-    }
 
-    /* Main Content Styles */
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-      padding: 20px;
-    }
+|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|
+|:-:|:-:|:-:|:-:|:-:|
+|[yeh me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bhi me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh tou hoon hi mein](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh dekha dekha lg rha hai](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bnda hai?](https://www.linkedin.com/in/cursedspiderboi/)|
 
-    /* Profile Image Styles */
-    .profile-image {
-      display: flex;
-      justify-content: center;
-    }
+---
 
-    .profile-image img {
-      width: 150px;
-      height: 150px;
-      border-radius: 50%;
-      border: 5px solid #007bff;
-    }
+### 👨‍💻 About Me
 
-    /* Connect Buttons Styles */
-    .connect-buttons {
-      display: flex;
-      justify-content: center;
-      margin: 20px 0;
-    }
+My name is Muhammad Ali, a computer science student who loves problem-solving and exploring new technologies. I'm currently diving into LeetCode, AI, and ML. Let's make our mark in the coding universe! 😄
 
-    .connect-buttons a {
-      margin: 0 10px;
-      text-decoration: none;
-      color: #007bff;
-      padding: 8px 16px;
-      border: 2px solid #007bff;
-      border-radius: 25px;
-      transition: all 0.3s ease;
-    }
+**Latest Project** -> [Word-Counter With Modern UI/UX](https://cursedspiderboi.github.io/Text-Editor/)
 
-    .connect-buttons a:hover {
-      background-color: #007bff;
-      color: #fff;
-    }
+---
 
-    /* Skills and Interests Styles */
-    .skills {
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      display: flex;
-      flex-wrap: wrap;
-    }
+### 🌐 Connect with me
 
-    .skills li {
-      margin: 5px;
-      padding: 8px 16px;
-      background-color: #007bff;
-      color: #fff;
-      border-radius: 25px;
-    }
+- [LinkedIn](https://www.linkedin.com/in/cursedspiderboi) - Let's connect on LinkedIn!
+- Email: lame.hero.no.1@gmail.com
+- [GitHub](https://github.com/CursedSpiderBoi) - Follow me on GitHub!
+- [Instagram](https://www.instagram.com/art_lancers/) - Let's connect on Instagram!
 
-    /* Currently Working on Styles */
-    .working-on {
-      background-color: #fff;
-      border: 2px solid #007bff;
-      padding: 20px;
-      border-radius: 10px;
-    }
+---
 
-    /* Done with Working on Styles */
-    .done-with {
-      background-color: #f6f6f6;
-      border: 2px solid #007bff;
-      padding: 20px;
-      border-radius: 10px;
-    }
+### 👨‍💻 Skills & Interests
 
-    /* Meme Styles */
-    .meme img {
-      width: 100%;
-      border-radius: 10px;
-    }
+- Food (making && eating both)
+- Web Dev
+- Professional Video Editor
+- The harder the problem, the greater the Fun
+- Keen Interest in Machine Learning
+- Learning C++ to develop Windows, Linux & Android Applications
 
-  </style>
-</head>
-<body>
+---
 
-<!-- Header -->
-<header>
-  <h1>Coding Adventure 🚀</h1>
-  <p><em>Hey there, I am Ali</em></p>
-</header>
+### 🤤 Currently Working on
 
-<!-- Main Content -->
-<div class="container">
+- The art of Computer Shaders
+- Convolutions
+- MERN
+- Database Management
 
-  <!-- Profile Image -->
-  <div class="profile-image">
-    <img src="https://avatars.githubusercontent.com/CursedSpiderBoi" alt="Profile Image">
-  </div>
+---
 
-  <!-- Connect with me -->
-  <div class="connect-buttons">
-    <a href="https://www.linkedin.com/in/cursedspiderboi" target="_blank">LinkedIn</a>
-    <a href="mailto:lame.hero.no.1@gmail.com">Email</a>
-    <a href="https://github.com/CursedSpiderBoi" target="_blank">GitHub</a>
-    <a href="https://www.instagram.com/art_lancers/" target="_blank">Instagram</a>
-  </div>
+### 😳 Done with Working On
 
-  <!-- About Me -->
-  <h2>About Me</h2>
-  <p>
-    My name is Muhammad Ali, a computer science student who loves problem-solving and exploring new technologies.
-    I'm currently diving into LeetCode, AI, and ML. Let's make our mark in the coding universe!
-  </p>
-
-  <!-- Latest Project -->
-  <h2>Latest Project</h2>
-  <p>
-    Check out my latest project:
-    <a href="https://cursedspiderboi.github.io/Text-Editor/" target="_blank">Word-Counter With Modern UI/UX</a>
-  </p>
-
-  <!-- Skills and Interests -->
-  <h2>👨‍💻 Skills & Interests</h2>
-  <ul class="skills">
-    <li>Food (making && eating both)</li>
-    <li>Web Dev</li>
-    <li>Professional Video Editor</li>
-    <li>The harder the problem, the greater the Fun</li>
-    <li>Keen Interest in Machine Learning</li>
-    <li>Learning C++ to develop Windows, Linux & Android Applications</li>
-  </ul>
-
-  <!-- Currently Working on -->
-  <div class="working-on">
-    <h2>🤤 Currently Working on</h2>
-    <p>
-      - The art of Computer Shaders<br>
-      - Convolutions<br>
-      - MERN<br>
-      - Database Management
-    </p>
-  </div>
-
-  <!-- Done with Working on -->
-  <div class="done-with">
-    <h2>😳 Done with Working On</h2>
-    <p>
-      - Learning Probability & Statistics<br>
-      - Assembly Language<br>
-      - Design and Analysis of Algorithms<br>
-      - Learning how OS works<br>
-      - OOP<br>
-      - Data Structures (I just love them)<br>
-      - Discrete Mathematics (Thank God it's done)<br>
-      - Linear Algebra (need this for game making)<br>
-      - Computer Architecture (why we are forced to learn it >_<)<br>
-      - Advance concepts of C++
-    </p>
-  </div>
-
-  <!-- Meme -->
-  <div class="meme">
-    <h2>I like this meme</h2>
-    <img src="https://www.kidscodecs.com/wp-content/uploads/2020/02/History_TS_ProgrammingMemes_image6.png" alt="Meme">
-  </div>
-
-</div>
-
-</body>
-</html>
+- Learning Probability & Statistics
+- Assembly Language
+- Design and Analysis of Algorithms
+- Learning how OS works
+- OOP
+- Data Structures (I just love them)
+- Discrete Mathematics (Thank God it's done)
+- Linear Algebra (need this for game making)
+- Computer Architecture (why we are forced to learn it >_<)
+- Advance concepts of C++
