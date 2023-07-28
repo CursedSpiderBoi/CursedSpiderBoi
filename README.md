@@ -3,69 +3,78 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=45&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Hey+there%2C+I+am+Ali" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <pre>
-🤣😂👩‍💻👨‍💻💻🔢📝💻
-🤔🧐🤯🤫🔍🕵️‍♂️🔤💡🎉🎊
-💻🎨🎭🚀🔮🔍🕵️‍♂️🎮🕹️
-📚📖📝💯🏆🏅💾💿🧲🎁🔮🎉
-🚀🎓🏫🧪🧬💻🔌🔋🔦🤯🚀
-  </pre>
+---
+
+A computer science student who loves problem-solving and exploring new technologies. I'm currently diving into LeetCode, AI, and ML. Let's make our mark in the coding universe! 😄
+
+<p align="middle">
+  <strong>Latest Project</strong> -> <a href="https://cursedspiderboi.github.io/Text-Editor/">Word-Counter With moderen UI/UX</a>
 </p>
 
-
+---
+<!---<details>
+  <summary><strong>Want to know more about me?</strong></summary>
 |![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|![image](https://avatars.githubusercontent.com/CursedSpiderBoi)|
 |:-:|:-:|:-:|:-:|:-:|
 |[yeh me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bhi me hoon](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh tou hoon hi mein](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh dekha dekha lg rha hai](https://www.linkedin.com/in/cursedspiderboi/)|[Yeh Bnda hai?](https://www.linkedin.com/in/cursedspiderboi/)|
+</details>--->
+
+
+
+<p align="middle">
+
+<p align="middle">
+  <a href="https://www.linkedin.com/in/cursedspiderboi"><img title="Let's connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <!-- <a href="https://twitter.com/"><img title="Let's connect on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
+  <a href="mailto:lame.hero.no.1@gmail.com"><img title="Mail me" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/CursedSpiderBoi"><img title="Follow on GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/art_lancers/"><img title="Follow on Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ---
 
-### 👨‍💻 About Me
 
-My name is Muhammad Ali, a computer science student who loves problem-solving and exploring new technologies. I'm currently diving into LeetCode, AI, and ML. Let's make our mark in the coding universe! 😄
+<!-- Table -->
+<div align="center">
+  <table style="width: 70%; border: 1px solid #ccc; padding: 20px;">
+    <tr>
+      <td>
+        <details>
+          <summary><strong>👨‍💻 Skills & Interests</strong></summary>
+          - Food (making && eating both)</br>
+          - Web Dev</br>
+          - Professional Video Editor</br>
+          - The harder the problem, the greater the Fun</br>
+          - Keen Interest in Machine Learning</br>
+          - Learning C++ to develop Windows, Linux & Android Applications</br>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><strong>🤤 Currently Working on</strong></summary>
+          - The art of Computer Shaders</br>
+          - Convolutions</br>
+          - MERN</br>
+          - Database Management</br>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><strong>😳 Done with Working On</strong></summary>
+          - Learning Probability & Statistics</br>
+          - Assembly Language</br>
+          - Design and Analysis of Algorithms</br>
+          - Learning how OS works</br>
+          - OOP</br>
+          - Data Structures (I just love them)</br>
+          - Discrete Mathematics (Thank God it's done)</br>
+          - Linear Algebra (need this for game making)</br>
+          - Computer Architecture (why we are forced to learn it >_<)</br>
+          - Advance concepts of C++</br>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Latest Project** -> [Word-Counter With Modern UI/UX](https://cursedspiderboi.github.io/Text-Editor/)
-
----
-
-### 🌐 Connect with me
-
-- [LinkedIn](https://www.linkedin.com/in/cursedspiderboi) - Let's connect on LinkedIn!
-- Email: lame.hero.no.1@gmail.com
-- [GitHub](https://github.com/CursedSpiderBoi) - Follow me on GitHub!
-- [Instagram](https://www.instagram.com/art_lancers/) - Let's connect on Instagram!
-
----
-
-### 👨‍💻 Skills & Interests
-
-- Food (making && eating both)
-- Web Dev
-- Professional Video Editor
-- The harder the problem, the greater the Fun
-- Keen Interest in Machine Learning
-- Learning C++ to develop Windows, Linux & Android Applications
-
----
-
-### 🤤 Currently Working on
-
-- The art of Computer Shaders
-- Convolutions
-- MERN
-- Database Management
-
----
-
-### 😳 Done with Working On
-
-- Learning Probability & Statistics
-- Assembly Language
-- Design and Analysis of Algorithms
-- Learning how OS works
-- OOP
-- Data Structures (I just love them)
-- Discrete Mathematics (Thank God it's done)
-- Linear Algebra (need this for game making)
-- Computer Architecture (why we are forced to learn it >_<)
-- Advance concepts of C++
+  <img src="https://i.pinimg.com/originals/88/b7/89/88b7890e8bef5980f79e300fd0a7bd8e.gif" alt="GIF" width="64" height="64" />
