@@ -5,8 +5,8 @@
 
 ---
 
-A computer science student who loves problem-solving and exploring new technologies. I'm currently diving into LeetCode, AI, and Shaders. Let's make our mark in the coding universe! 😄
-
+A computer science student who loves problem-solving and exploring new technologies. I'm currently diving into Game Design and Development , AI, and Shaders. Let's make our mark in the coding universe! 😄
+<!---
 <p align="middle">
   <strong>Latest Project</strong> -> <a href="https://cursedspiderboi.github.io/Text-Editor/">Word-Counter With moderen UI/UX</a>
 </p>
